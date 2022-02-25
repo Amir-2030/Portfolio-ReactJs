@@ -25,7 +25,6 @@ class App extends  Component{
     <Route path="/" element={<Index />} />
     <Route path="/Contact" element={<Contact />} />
     <Route path="/Work" element={<Work />} />
-   
     <Route path="/About" element={<About />} />
     <Route path="/Profile" element={<Profile />} />
      <Route path="/Portofolio" element={<Portofolio />} />

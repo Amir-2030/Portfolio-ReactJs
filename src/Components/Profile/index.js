@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css'
-import { render } from '@testing-library/react';
+
 
 const Profile = () => {
   

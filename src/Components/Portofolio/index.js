@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { render } from '@testing-library/react';
+
 import {Portfolio , Title , Span,PorList,PorItem,Box,Img,Overlay,OverlaySpan} from './style.js'
 const Portofolio = () => {
   

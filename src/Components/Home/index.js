@@ -1,6 +1,6 @@
 import React from 'react';
 import {HomeSection,HomeInformation,HomeInfo,Title,HomeDesc,Span,Btn} from './style.js'
-import { render } from '@testing-library/react';
+
 
 const Home = () => {
   
